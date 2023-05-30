@@ -3,6 +3,6 @@ Logger Utility for Unity Engine is a powerful and essential tool designed to str
 
 One of the key features of Logger Utility is its flexible configuration options. Developers have the freedom to specify the level of severity for each type of log entry, enabling them to prioritize and categorize logs based on their importance. Whether it's critical errors, warnings, or informational messages, Logger Utility ensures that you have complete control over the logging process.
 
-With Logger Utility, debugging and monitoring your Unity projects becomes a streamlined and efficient process. By leveraging this tool's comprehensive logging capabilities, you can easily identify and resolve UI-related errors, warnings, and messages, ensuring a smooth and error-free user experience.
+With Logger Utility, debugging and monitoring your Unity projects becomes a streamlined and efficient process. By leveraging this tool's comprehensive logging capabilities, you can easily identify and resolve project related errors, warnings, and messages, ensuring a smooth and error-free user experience.
 
 **NOTE:** The Logger Utility is currently in the process of being developed and is undergoing continuous improvements to ensure a seamless user experience. While it may have a few existing bugs, the developer is diligently working to address them and enhance the functionality of the utility.
