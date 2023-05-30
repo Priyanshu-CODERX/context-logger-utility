@@ -6,3 +6,7 @@ One of the key features of Logger Utility is its flexible configuration options.
 With Logger Utility, debugging and monitoring your Unity projects becomes a streamlined and efficient process. By leveraging this tool's comprehensive logging capabilities, you can easily identify and resolve project related errors, warnings, and messages, ensuring a smooth and error-free user experience.
 
 **NOTE:** The Logger Utility is currently in the process of being developed and is undergoing continuous improvements to ensure a seamless user experience. While it may have a few existing bugs, the developer is diligently working to address them and enhance the functionality of the utility.
+
+## ⚒️ Development Environment
+- Visual Studio Code
+- Unity Engine 2021.3.15f1
